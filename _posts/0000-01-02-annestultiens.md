@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+
+I used to hate the Git - now I hate it less.
+
 Use the left arrow to go back!
